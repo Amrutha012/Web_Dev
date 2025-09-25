@@ -1,0 +1,86 @@
+.heading {
+  text-align: center;
+  font-size: 50px;
+  margin-bottom: 2px;
+  color: #ffffff;
+  font-family: "Montserrat", sans-serif;
+  background-color: #004165;
+}
+.heading1 {
+  text-align: center;
+  font-size: 20px;
+  margin: 0px;
+  color: #f2df74;
+  font-family: "Montserrat", sans-serif;
+  margin-bottom: 0px;
+  background-color: #004165;
+}
+.heading,
+.heading1 {
+  margin: 0; /* removes all default spacing */
+  padding: 10px 0; /* optional, adds space inside the box */
+}
+
+.intro {
+  font-family: "Montserrat", sans-serif;
+  text-align: justify;
+  margin: left;
+  width: 1000px;
+  margin-left: 70px;
+  margin-top: 50px;
+}
+.photo {
+  float: right;
+  width: 300px;
+  border-radius: 200px;
+  margin-right: 90px;
+  margin-top: -230px;
+}
+.link {
+  float: right;
+  margin-top: 70px;
+  margin-left: 740px;
+  margin-right: -220px;
+  font-family: "Source sans pro", sans-serif;
+  background-color: #004165;
+  color: #f2df74;
+  padding: 10px 20px;
+}
+.heading3 {
+  color: #004165;
+  font-family: "Montserrat", sans-serif;
+  text-align: center;
+  font-size: 30px;
+  clear: both;
+  margin-bottom: 2px;
+  position: relative;
+  margin-top: -80px;
+}
+.buttons {
+  margin-left: 70px;
+  margin-right: 70px;
+  display: flex;
+  gap: 40px;
+  margin-top: 1px;
+}
+.buttons button {
+  padding-top: 70px;
+  padding-bottom: 70px;
+  padding-right: 100px;
+  padding-left: 100px;
+  margin-top: 40px;
+  border-radius: 50px;
+  border-width: 5 px;
+  background-color: #ffffff;
+  font-style: italic;
+  font-family: "Source sans pro", sans-serif;
+  font-size: 20px;
+  box-shadow: 2px 2px 10px #a9b2b1;
+}
+.buttons button:hover {
+  background-color: #004165;
+  color: #f2df74;
+  font-weight: bold;
+  opacity: 1;
+  box-shadow: 1px 1px 3px #888888;
+}
