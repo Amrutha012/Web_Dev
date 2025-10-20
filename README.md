@@ -68,3 +68,26 @@ This project helped me understand how **small CSS changes can greatly improve UI
 1. Clone the repository:
    ```bash
    git clone https://github.com/Amrutha012/Web_Dev.git
+
+After a long time, again started the web development journey with utmost conidence and passion! Here is the outcome!!
+# Spotify Web Page
+
+This is a **Spotify Web Page** project that replicates the UI of Spotify using HTML and CSS.  
+It demonstrates a simple, responsive front-end web page design.
+
+## 📌 Features
+- Clean and attractive UI layout.
+- Navigation bar and playlist sections styled like Spotify.
+- Buttons, cards, and other UI elements designed using CSS.
+- Fully static HTML+CSS project.
+
+## 📝 Learning Outcome
+- Learned how to structure a web page with HTML.
+- Practiced CSS styling, layouts, and responsive design.
+- Gained experience in replicating real-world UI using front-end technologies.
+
+## 🚀 How to Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Amrutha012/Web_Dev.git
+
