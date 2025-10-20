@@ -39,6 +39,31 @@ It is an improved version of Day 1 with **CSS styling** added for a modern look.
 - Learned how to style web pages using CSS.
 - Improved design and readability compared to Day 1
 
+## 📅 Day 3 – HTML & CSS Basics  
+
+### ✅ Concepts Learned:
+- Structuring a webpage with **header, body, and footer**  
+- Adding and styling **images** with borders & shadows  
+- Creating **unordered lists** with hover effects  
+- Applying **basic CSS styling** (colors, spacing, transitions)  
+- Understanding **webpage layout improvements**  
+
+### 🧠 Project Built:
+| File                 | Description                                 |
+|----------------------|---------------------------------------------|
+| `day3_toastmasters.html` | A styled webpage about Toastmasters International |
+
+---
+
+## ✨ Reflection (Day 3)
+Today I practiced **HTML + CSS styling** by creating a webpage for *Toastmasters International*.  
+
+- I learned how to structure a page with **header, footer, and content sections**.  
+- Adding **hover effects** made the list more interactive.  
+- Styling images with **shadows and rounded corners** gave a more professional look.  
+
+This project helped me understand how **small CSS changes can greatly improve UI/UX**. I feel motivated to continue making better-looking webpages! 🚀  
+
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
